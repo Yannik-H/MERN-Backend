@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "yannik",
+        "DB_PASSWORD": "1123",
+        "DB_NAME": "mern",
+        "GOOGLE_MAP_API_KEY": "AIzaSyAZCB59dgt04SPLDjkvcyCq_X_ABvTuDng",
+        "JWT_KEY": "confidential_info"
+    }
+}
